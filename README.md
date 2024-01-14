@@ -2,7 +2,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Front-End skill
- <img src="https://img.shields.io/badge/React-#61DAFB?style=flat-square&logo=React&logoColor=#61DAFB"/>
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+
+## Now I learn...
+![NextJS](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ## SNS List
 [![Instagram Bage](https://img.shields.io/badge/instagram-red?style={#E4405F}&logo=Instagram&logoColor=#E4405F"&link=https://instagram.com/ban_ko.1)](https://instagram.com/ban_ko.1/)
