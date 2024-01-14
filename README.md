@@ -2,7 +2,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Context
-<img src="https://img.shields.io/badge/instagram-red?style={#E4405F}&logo=Instagram&logoColor=#E4405F"&link=https://instagram.com/ban_ko.1/>
+[![Instagram Bage](https://img.shields.io/badge/instagram-red?style={#E4405F}&logo=Instagram&logoColor=#E4405F"&link=https://instagram.com/ban_ko.1)](https://instagram.com/ban_ko.1/)
 
 
 
